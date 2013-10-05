@@ -11,7 +11,7 @@ PBL_APP_INFO(MY_UUID,
              "SmartStatus", "Robert Hesse",
              1, 0, /* App version */
              RESOURCE_ID_APP_ICON,
-             APP_INFO_STANDARD_APP);
+             APP_INFO_WATCH_FACE);
 
 #define STRING_LENGTH 255
 #define NUM_WEATHER_IMAGES	8
